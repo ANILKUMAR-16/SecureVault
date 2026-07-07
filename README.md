@@ -59,9 +59,9 @@ npm install
 npm run dev
 ```
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-(Add screenshots here)
+![SecureVault Dashboard](screenshots/dashboard.png)
 
 ## 📄 License
 
