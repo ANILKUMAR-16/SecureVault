@@ -62,7 +62,7 @@ export default function Register() {
               type="email" 
               required
               className="input-field" 
-              placeholder="you@company.com"
+              placeholder="user@gmail.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />
