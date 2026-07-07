@@ -50,7 +50,7 @@ export default function Register() {
               type="text" 
               required
               className="input-field" 
-              placeholder="John Doe"
+              placeholder="Name"
               value={name}
               onChange={(e) => setName(e.target.value)}
             />
