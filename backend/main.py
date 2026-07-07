@@ -15,7 +15,9 @@ app = FastAPI(
 # Set up CORS
 origins = [
     "http://localhost",
-    "http://localhost:5173", # Vite default
+    "http://localhost:5173",
+    "https://secure-vault-am459b55u-anilk16.vercel.app",
+    "https://secure-vault-anilk16.vercel.app",
 ]
 
 app.add_middleware(
